@@ -1,0 +1,77 @@
+@font-face {
+  font-family: "Roboto";
+  src: url(<link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">);
+}
+
+.title {
+    color: brown;
+    text-align: center;
+  }
+
+  body {
+    background-color: beige;
+  }
+
+  div {
+    display: block;
+    margin-bottom: 40px;
+  }
+
+  .imgme {
+    background-color: beige
+   padding: 40px;
+   border: thin;
+   border-color: brown;
+   text-align: center;
+  }
+
+  .header {
+    text-align: center;
+    background-color: beige;
+  }
+
+ .header-link {
+   margin: 10px;
+ }
+
+.link {
+color: darkgoldenrod;
+ }
+
+ h2 {
+   text-align: center;
+ }
+
+ .paragraph {
+   display: block;
+   font-family: sans-serif;
+ }
+
+ .p {
+   text-align: justify;
+   padding: 30px 120px;
+   margin: 20px;
+   font-size: larger;
+ }
+
+ .numbers {
+   text-align: justify;
+   font-size: larger;
+   padding: 30px 120px;
+   margin: 20px;
+ }
+
+ .footer {
+  padding: 30px 120px;
+  margin: 20px;
+ }
+
+ .material-icons {
+font-size: 12;
+margin: 10px;
+ }
+
+.address {
+  display: flex;
+  align-items: center;
+}
